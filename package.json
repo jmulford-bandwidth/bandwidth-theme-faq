@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-bandwidth-theme-faq",
+  "name": "gitbook-plugin-theme-faq-2",
   "description": "Theme for using GitBook as a FAQ or Knowledge base. Forked to fit Bandwidth's needs",
   "version": "1.2.2",
   "engines": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jmulford/bandwidth-theme-faq.git"
+    "url": "https://github.com/jmulford/theme-faq-2.git"
   },
   "author": "FriendCode Inc. <contact@gitbook.com>",
   "license": "Apache-2.0",
