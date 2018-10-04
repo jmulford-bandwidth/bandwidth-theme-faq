@@ -1,6 +1,6 @@
 # GitBook FAQ Theme
 
-Theme for using GitBook to publish an FAQ or Knowledge Base. This theme works perfectly with search plugins (as the [default one](https://github.com/GitbookIO/plugin-search) or [algolia](https://github.com/GitbookIO/plugin-algolia)).
+Theme for using GitBook to publish an FAQ or Knowledge Base for Bandwidth. This theme works perfectly with search plugins (as the [default one](https://github.com/GitbookIO/plugin-search) or [algolia](https://github.com/GitbookIO/plugin-algolia)).
 
 ## Usage
 
@@ -11,7 +11,7 @@ Add the theme to your book's configuration (`book.json`):
 ```js
 {
     "plugins": [
-        "theme-faq",
+        "theme-faq-2",
         "-fontsettings",
         "-sharing"
     ]
